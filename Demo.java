@@ -16,6 +16,6 @@ class A {
 
 class B {
     void message() {
-        System.out.println("This is class B");
+        System.out.println("This is class BB");
     }
 }
